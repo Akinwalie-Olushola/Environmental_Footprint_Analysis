@@ -39,6 +39,7 @@ Final insights and actionable recommendations
          Total emissions(tC02e)
           
          Net emissions (tCO2e)
+         
     -  Standardizing categorical responses
     
     -  Preparing the dataset for visualization
@@ -96,8 +97,6 @@ Insight generation
 
 Business recommendation writing
 
-End‑to‑end analytics storytelling
+Data storytelling
 
-data_cleaning_steps.md file
 
-Write the calculations_document
