@@ -55,11 +55,11 @@ Final insights and actionable recommendations
     -  Filters for deeper exploration.
 
 ##🔍**Key Insights & 🧭 Recommendations**
-   -  insight 1:   There was no significant deduction in total emission over the 6 year period, 2022 and 2023 only experienced a net negative emission because carbon offset purchased was a little higher.
+   -  insight 1:   There was no significant reduction in total emission(tC02e) over the 6 year period, 2022 and 2023 only experienced a net negative emission because carbon offset purchased was a little higher those year.
 
-   -  insight 2:   Scope 2 contribute the highest to total emission.
+   -  insight 2:   Scope 2 contribute the highest to total emission(tC02e).
 
-   -  insight 3:   Air transportation contribute the most to scope 3 emissions (tC02e),a total of 78.25% 
+   -  insight 3:   Air transportation contribute the most to scope 3 emissions(tC02e),a total of 78.25%.
 
        These insights helped shape the final recommendations.
 
@@ -69,7 +69,7 @@ Final insights and actionable recommendations
 
      - Recommendation 2: Implement a consistent energy monitoring framework.
 
-     - Recommendation 3: sustainable procurement and logistics policy will help reduce scope 3 emissions (tC02e).
+     - Recommendation 3: sustainable procurement and logistics policy will help reduce scope 3 emissions(tC02e).
 
    Full recommendations are available in the PDF.
 
